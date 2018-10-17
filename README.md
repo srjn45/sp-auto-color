@@ -8,7 +8,7 @@ default threshold value is 128
 
 it supports hex, rgb & rgba coloring formats
 
-## Usage
+## Installation & Usage
 
 install the package
 
